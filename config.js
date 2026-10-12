@@ -14,7 +14,7 @@ window.HDS_CONFIG = {
   // Videos: files go in /videos
   videos: [
     { src: "videos/dance1.mp4", title: "Performance", poster: "" },
-    { src: "videos/dance1.mp4", title: "In the studio", poster: "" },
+    { src: "videos/second.mp4", title: "In the studio", poster: "" },
     { src: "videos/vid-3.mp4", title: "Behind the scenes", poster: "" },
   ],
 };
